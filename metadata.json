@@ -1,0 +1,5 @@
+{
+  "name": "Medical Report Assistant",
+  "description": "A quick-copy tool for medical professionals to generate common EGD report templates for ulcers, gastritis, and polyps with a single click.",
+  "requestFramePermissions": []
+}
